@@ -1,3 +1,4 @@
+![Screenshot (12)](https://github.com/ArpanJana2002/Vue_expense_tracer/assets/125195972/9a725089-5639-4852-8f4c-43f06f62ab09)
 # vue-expense-tracer
 
 This template should help get you started developing with Vue 3 in Vite.
