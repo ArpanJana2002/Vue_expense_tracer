@@ -22,6 +22,15 @@ npm install
 ```sh
 npm run dev
 ```
+## Money added
+
+![Screenshot (12)](https://github.com/user-attachments/assets/221dc9e4-abe4-4680-980a-6033b9526062)
+
+## Money withdrawn
+
+![Screenshot (13)](https://github.com/user-attachments/assets/1c178343-0a5a-44df-b329-77ac92950d6e)
+
+
 
 ### Compile and Minify for Production
 
